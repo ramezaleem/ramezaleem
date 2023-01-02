@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/rameza khalifa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rameza khalifa" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/rameza khalifa](https://www.linkedin.com/in/ramezaleem/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rameza khalifa" height="30" width="40" /></a>
 <a href="https://fb.com/ramez khalifa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ramez khalifa" height="30" width="40" /></a>
 </p>
 
