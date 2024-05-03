@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi 👋, I'm Ramez Aleem</h1>
+<h1 align="center">Hi 👋, I'm Ramez Khalifa</h1>
 <h3 align="center">Software Engineer</h3>
 
 <h3 align="left">Connect with me:</h3>
