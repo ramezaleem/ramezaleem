@@ -1,56 +1,62 @@
+<h1 align="center">👋 Hey there, I'm Ramez Khalifa</h1>
+<h3 align="center">🌐 Full Stack .NET Developer | Backend Enthusiast</h3>
 
-
-<!--
-**ramezaleem/ramezaleem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<h1 align="center">Hello 👋, I'm Ramez Khalifa</h1>
-<h3 align="center">🌐 Full Stack .NET Developer</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ASP.NET%20Core-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
+</p>
 
 ---
 
-🌱 **About Me:**
-I am a passionate **Full Stack .NET Developer** with a strong foundation in backend development. My expertise includes **ASP.NET Core**, **C#**, and **Microsoft SQL Server**. I thrive on tackling complex challenges and building scalable applications.
-
-🔭 **Current Projects:**
-Currently, I'm working on **EduTrack**, a project aimed at improving educational resource management and student performance tracking.
-
-🌱 **Learning Journey:**
-I’m continually enhancing my skills, particularly in **cloud computing** and modern web technologies. I enjoy staying updated with industry trends and best practices.
-
-👯 **Collaboration:**
-I’m looking to collaborate on exciting projects, especially those related to **.NET development** and backend solutions. If you have an interesting idea, let’s connect!
-
-💬 **Ask Me About:**
-- Software development practices
-- Backend architecture and design
-- Clean code principles and best practices
-
-📫 **Connect with Me:**
-- [LinkedIn](https://www.linkedin.com/in/ramezaleem/)
-- [Facebook](https://www.facebook.com/Muslim.abdelaleem)
-
-😄 **Pronouns:** He/Him
-
-⚡ **Fun Fact:**
-I love contributing to open-source projects and participating in hackathons. In my free time, I enjoy exploring new technologies and reading tech blogs.
+### 🚀 About Me
+💻 Passionate **Full Stack .NET Developer** with strong backend experience.  
+⚡ Skilled in **ASP.NET Core, C#, EF Core, SQL Server**.  
+📚 Always learning new techs (Cloud ☁️, Angular, APIs).  
+📈 Love building **scalable, clean, and secure applications**.  
 
 ---
 
-✨ I'm excited to connect and collaborate! Feel free to reach out if you have any questions or project ideas!
+### 🌱 My Focus
+- **Backend Development** (C#, ASP.NET Core, APIs)  
+- **Database Design** & Optimization (SQL Server)  
+- **Frontend** with Angular, HTML, CSS, JS when needed  
+- Writing **clean, testable code** (SOLID, OOP, Design Patterns)  
 
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
+### 📌 Projects
+- **Bookify** 📚 – Library Management System (ASP.NET Core MVC, Identity, EF Core, SQL Server)  
+- **Simple HRM** 👨‍💼 – Human Resource System (C#, OOP, Security, Modular Design)  
 
+---
+
+### 🎓 Education
+**B.Sc. Computer Science** – Menoufia University (Very Good)  
+
+---
+
+### 🛠 Languages & Tools
+<p align="left">
+  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+</p>  
+
+---
+
+### 📫 Connect with Me
+- 💼 [LinkedIn](https://www.linkedin.com/in/ramezaleem/)  
+- 📧 ramez.aleem532@gmail.com  
+- 🌍 Egypt  
+
+✨ *Open to collaborations & new opportunities in .NET / Backend Development!*  
