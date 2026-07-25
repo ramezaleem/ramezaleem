@@ -77,9 +77,6 @@
 </div>
 <br>
 <p align="center" dir="auto">
-  <a href="https://www.linkedin.com/in/ramezkhalifa" title="LinkedIn" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="max-width: 100%;">
-  </a>
   <a href="mailto:ramez.aleem532@gmail.com" title="Gmail" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Gmail-%23F05033.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" style="max-width: 100%;">
   </a>
