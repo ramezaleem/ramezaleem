@@ -57,10 +57,7 @@
   <li>⚡ Fun fact: <code>I love building scalable applications and solving complex problems</code>!</li>
 </ul>
 <br>
-<a href="https://www.buymeacoffee.com/ramezkhalifa" target="_blank" rel="noopener noreferrer">
-  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" 
-       alt="Buy Me A Coffee" 
-       style="height: 60px !important; width: 217px !important; max-width: 100%; height: auto;"></a>
+
        <br>
        <br>
 <!-- <a href="https://www.patreon.com/RamezKhalifa" target="_blank" rel="noopener noreferrer" 
