@@ -76,26 +76,11 @@
   </a>
 </div>
 <br>
-<p align="center" dir="auto">
-  <a href="mailto:ramez.aleem532@gmail.com" title="Gmail" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Gmail-%23F05033.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" style="max-width: 100%;">
-  </a>
-  <a href="https://api.whatsapp.com/send?phone=201221614207" title="WhatsApp" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/WhatsApp-%2325D366.svg?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" style="max-width: 100%;">
-  </a>
-  <a href="https://x.com/yourtwitter" title="Twitter (X)" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Twitter%20(X)-%23000000.svg?style=for-the-badge&logo=x&logoColor=white" alt="Twitter (X)" style="max-width: 100%; height: auto;">
-  </a>
-  <a href="https://www.instagram.com/yourinstagram/" title="Instagram" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" style="max-width: 100%;">
-  </a>
-  <a href="https://www.facebook.com/Muslim.abdelaleem" title="Facebook" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" style="max-width: 100%;">
-  </a>
-</p>
-
+<p align="center" dir="auto"><a href="mailto:ramez.aleem532@gmail.com" title="Gmail" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Gmail-%23F05033.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" style="max-width: 100%;"></a><a href="https://api.whatsapp.com/send?phone=201221614207" title="WhatsApp" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/WhatsApp-%2325D366.svg?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" style="max-width: 100%;"></a><a href="https://x.com/yourtwitter" title="Twitter (X)" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Twitter%20(X)-%23000000.svg?style=for-the-badge&logo=x&logoColor=white" alt="Twitter (X)" style="max-width: 100%; height: auto;"></a><a href="https://www.instagram.com/yourinstagram/" title="Instagram" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" style="max-width: 100%;"></a><a href="https://www.facebook.com/Muslim.abdelaleem" title="Facebook" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" style="max-width: 100%;"></a></p>
 <div class="markdown-heading" dir="auto"><h2 class="heading-element" dir="auto">🛠 Languages and Tools</h2><a id="user-content--languages-and-tools" class="anchor" aria-label="Permalink: 🛠 Languages and Tools" href="#-languages-and-tools"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+
 <br>
+
 <p align="center" dir="auto">
     <a href="https://git-scm.com/" title="Git" target="_blank" rel="nofollow">
         <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"
@@ -168,6 +153,7 @@
         <img src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white"
             alt="Azure" style="max-width: 100%;"></a>
 </p>
+
 <div class="markdown-heading" dir="auto">
  <h2>
   <img src="https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width="35"> 
