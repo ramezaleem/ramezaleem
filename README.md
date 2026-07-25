@@ -58,8 +58,6 @@
 </ul>
 <br>
 
-       <br>
-       <br>
 <!-- <a href="https://www.patreon.com/RamezKhalifa" target="_blank" rel="noopener noreferrer" 
    style="display: inline-block; text-decoration: none; border-radius: 10px; overflow: hidden; 
           box-shadow: 0 6px 12px rgba(0, 0, 0, 0.15); transition: transform 0.2s ease, box-shadow 0.2s ease;">
